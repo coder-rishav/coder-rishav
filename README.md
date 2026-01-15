@@ -42,10 +42,11 @@
 
 ### 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=coder-rishav&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=coder-rishav&theme=chartreuse-dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=coder-rishav&show_icons=true&theme=dark&title_color=00ff7f&icon_color=00ff7f&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-rishav&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=coder-rishav&theme=dark&ring=00ff7f&fire=00ff7f&currStreakLabel=00ff7f&hide_border=true&background=0d1117"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-rishav&layout=compact&theme=dark&title_color=00ff7f&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
 
 </div>
 
@@ -55,7 +56,7 @@
 
 ### 🏆 GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=coder-rishav&theme=matrix&no-frame=true&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=coder-rishav&theme=darkhub&no-frame=true&column=6&margin-w=10"/>
 
 </div>
 
