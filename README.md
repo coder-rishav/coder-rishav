@@ -1,73 +1,39 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Rishav Mandal</h1>
+<h3 align="center">A passionate backend developer from India</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff7f&height=140&section=header&text=Rishav%20is%20Live&fontSize=50&fontColor=00ff7f&animation=fadeIn" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-rishav&label=Profile%20views&color=0e75b6&style=flat" alt="coder-rishav" /> </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rishav+Mandal;Backend+Developer;Laravel+%7C+Django+%7C+SQL;Tech+Blogger+%7C+Gaming+Creator" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-rishav" alt="coder-rishav" /></a> </p>
 
-<img src="https://komarev.com/ghpvc/?username=rishavmandal&label=Profile%20Views&color=00ff7f&style=flat" />
+- 🔭 I’m currently working on Supporthives Technologies **GenS API Development**
 
-</div>
+- 🌱 I’m currently learning **NEXT.js**
 
-<br>
+- 👯 I’m looking to collaborate on **Python Django Projects**
 
-<div align="center">
+- 🤝 I’m looking for help with **Flask Projects**
 
-<b>Name:</b> Rishav Mandal <br>
-<b>Role:</b> Backend Developer <br>
-<b>Stack:</b> Laravel | Django | SQL <br>
-<b>Blog:</b> <a href="https://rishavislive.com">rishavislive.com</a> <br>
-<b>Brand:</b> Rishav is Live 🎮 <br>
-<b>Motto:</b> Build. Stream. Dominate.
+- 📝 I regularly write articles on [https://rishavislive.com](https://rishavislive.com)
 
-</div>
+- 💬 Ask me about **python, php, laravel, django, SQL**
 
-<br>
+- 📫 How to reach me **coder.rishav@gmail.com**
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,python,django,mysql,postgres,redis,git,github,linux,js,html,css&theme=dark" />
-</div>
+- 📄 Know about my experiences [https://drive.google.com/file/d/16IBEZLpHugSic6VsfnP4Out98kzT3RXG/view?usp=sharing](https://drive.google.com/file/d/16IBEZLpHugSic6VsfnP4Out98kzT3RXG/view?usp=sharing)
 
-<br>
+- ⚡ Fun fact **I think, I know everything**
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishavmandal&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=rishavmandal&theme=chartreuse-dark&hide_border=true" />
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/dev_rishav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev_rishav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dev-rishav-mandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-rishav-mandal" height="30" width="40" /></a>
+<a href="https://fb.com/rishavislive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishavislive" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@rishavislive_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rishavislive_official" height="30" width="40" /></a>
+</p>
 
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavmandal&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-rishav&show_icons=true&locale=en&layout=compact" alt="coder-rishav" /></p>
 
-<br>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rishavmandal&theme=matrix&no-frame=true&column=6" />
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/rishavmandal/rishavmandal/output/snake.svg" />
-</div>
-
-<br>
-
-<div align="center">
-<a href="https://rishavislive.com">
-<img src="https://img.shields.io/badge/Website-00FF7F?style=for-the-badge&logo=google-chrome&logoColor=000" />
-</a>
-<a href="https://instagram.com/rishavislive_official">
-<img src="https://img.shields.io/badge/Instagram-00FF7F?style=for-the-badge&logo=instagram&logoColor=000" />
-</a>
-<a href="https://youtube.com">
-<img src="https://img.shields.io/badge/YouTube-00FF7F?style=for-the-badge&logo=youtube&logoColor=000" />
-</a>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:00ff7f&height=120&section=footer" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-rishav&show_icons=true&locale=en" alt="coder-rishav" /></p>
