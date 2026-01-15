@@ -1,14 +1,15 @@
-<div align="center">
+<h1 align="center" style="color:#00ff7f;">Rishav Mandal</h1>
+<h3 align="center" style="color:#00cc66;">Backend Developer • Laravel • Django • SQL</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff7f&height=140&section=header&text=Rishav%20Mandal&fontSize=50&fontColor=00ff7f&animation=fadeIn"/>
-
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rishav+Mandal;Backend+Developer+from+India;Laravel+%7C+Django+%7C+SQL;Tech+Blogger+%7C+Gaming+Creator"/>
+</p>
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=coder-rishav&label=Profile%20Views&color=00ff7f&style=flat"/>
+</p>
 
-</div>
-
-<br>
+---
 
 <div align="center">
 
@@ -62,7 +63,7 @@
 
 <div align="center">
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 
 <a href="https://linkedin.com/in/dev-rishav-mandal">
 <img src="https://img.shields.io/badge/LinkedIn-00FF7F?style=for-the-badge&logo=linkedin&logoColor=000"/>
@@ -79,13 +80,5 @@
 <a href="https://youtube.com/@rishavislive_official">
 <img src="https://img.shields.io/badge/YouTube-00FF7F?style=for-the-badge&logo=youtube&logoColor=000"/>
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:00ff7f&height=120&section=footer"/>
 
 </div>
